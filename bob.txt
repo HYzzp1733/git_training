@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi! This is Bob in txt version. New changes were made. I've been here for a while. Now I add something for merging test.
-=======
-Hi! This is Bob in txt version. New changes were made. I've been here for a while.
->>>>>>> bobby_branch
+Hi! This is Bob in txt version. New changes were made. I've been here for a while. Now I abort the merge.
